@@ -14,3 +14,8 @@ Exercise Recommendation System method
 > 잠재된 니즈/잠재된 특성 고려한 모델
 - 고객이 툴에대한 평가를 하였을때 해당 툴 속성(Keyword)과 해당 유저가 어떤 사람들인지에 대한 유저 특성(ex. 연령, 성별, 직업, 검색어 등) 데이터를 활용해 추천을 하는 방식
 
+## 4. 참고 논문
+
+### 1. Topic Modeling-based Book Recommendations Considering Online Purchase Behavior 
+온라인 구매 행태를 고려한 토픽 모델링 기반 도서 추천
+https://koreascience.kr/article/JAKO201707851607615.page
