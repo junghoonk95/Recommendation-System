@@ -21,4 +21,5 @@ Exercise Recommendation System method
 https://koreascience.kr/article/JAKO201707851607615.page
 
 ### 2. 추천 시스템 기법 연구동향 분석
+Review and Analysis of Recommender Systems
 https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201512053817215
