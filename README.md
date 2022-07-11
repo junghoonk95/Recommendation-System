@@ -19,3 +19,6 @@ Exercise Recommendation System method
 ### 1. Topic Modeling-based Book Recommendations Considering Online Purchase Behavior 
 온라인 구매 행태를 고려한 토픽 모델링 기반 도서 추천
 https://koreascience.kr/article/JAKO201707851607615.page
+
+### 2. 추천 시스템 기법 연구동향 분석
+https://scienceon.kisti.re.kr/commons/util/originalView.do?dbt=JAKO&cn=JAKO201512053817215&oCn=JAKO201512053817215&pageCode=PG04&journal=NJOU00290657
